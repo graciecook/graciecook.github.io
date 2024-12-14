@@ -7,7 +7,7 @@ Student at Brigham Young University Idaho: B.S. Data Science
 
 ### Skills
 
-Python, SQL, Data Analytcis, Healthcare, Nutrition, Dance
+Python, SQL, Data Analytcis, Healthcare
 
 
 ## Education
